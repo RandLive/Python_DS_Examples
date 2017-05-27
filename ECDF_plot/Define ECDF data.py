@@ -1,3 +1,4 @@
+
 def ecdf(data):
     """Compute ECDF for a one-dimensional array of measurements."""
     # ECDF is short for empirical cumulative distribution function.
